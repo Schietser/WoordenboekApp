@@ -1,0 +1,12 @@
+C:\Users\Ruben\Spring Projects\woordenboek\src\main\java\org\example\woordenboek\WoordenboekApplication.java
+C:\Users\Ruben\Spring Projects\woordenboek\src\main\java\org\example\woordenboek\services\exceptions\WordNotFoundException.java
+C:\Users\Ruben\Spring Projects\woordenboek\src\main\java\org\example\woordenboek\models\entities\WordEntity.java
+C:\Users\Ruben\Spring Projects\woordenboek\src\main\java\org\example\woordenboek\models\repositories\WordRepository.java
+C:\Users\Ruben\Spring Projects\woordenboek\src\main\java\org\example\woordenboek\models\dto\FindWordById.java
+C:\Users\Ruben\Spring Projects\woordenboek\src\main\java\org\example\woordenboek\models\dto\DeleteWord.java
+C:\Users\Ruben\Spring Projects\woordenboek\src\main\java\org\example\woordenboek\models\dto\UpdateWord.java
+C:\Users\Ruben\Spring Projects\woordenboek\src\main\java\org\example\woordenboek\presentation\controllers\WordController.java
+C:\Users\Ruben\Spring Projects\woordenboek\src\main\java\org\example\woordenboek\models\dto\CreateWord.java
+C:\Users\Ruben\Spring Projects\woordenboek\src\main\java\org\example\woordenboek\services\mappers\WordMapper.java
+C:\Users\Ruben\Spring Projects\woordenboek\src\main\java\org\example\woordenboek\services\flow\WordService.java
+C:\Users\Ruben\Spring Projects\woordenboek\src\main\java\org\example\woordenboek\models\dto\FindWordByOriginalOrTranslation.java

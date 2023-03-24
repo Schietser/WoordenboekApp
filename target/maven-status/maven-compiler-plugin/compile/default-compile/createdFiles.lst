@@ -1,0 +1,12 @@
+org\example\woordenboek\models\dto\FindWordByOriginalOrTranslation.class
+org\example\woordenboek\models\repositories\WordRepository.class
+org\example\woordenboek\models\entities\WordEntity.class
+org\example\woordenboek\services\flow\WordService.class
+org\example\woordenboek\models\dto\CreateWord.class
+org\example\woordenboek\models\dto\FindWordById.class
+org\example\woordenboek\services\exceptions\WordNotFoundException.class
+org\example\woordenboek\presentation\controllers\WordController.class
+org\example\woordenboek\models\dto\DeleteWord.class
+org\example\woordenboek\models\dto\UpdateWord.class
+org\example\woordenboek\services\mappers\WordMapper.class
+org\example\woordenboek\WoordenboekApplication.class
